@@ -1,5 +1,5 @@
 Rails.application.configure do
-  config.action_mailer.default_url)ptions = { host: 'https://grammable-kellar-elliott.herokuapp.com' }
+  config.action_mailer.default_url_options = { host: 'https://grammable-kellar-elliott.herokuapp.com' }
   # Settings specified here will take precedence over those in config/application.rb.
 
   # Code is not reloaded between requests.
