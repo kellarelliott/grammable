@@ -1,24 +1,11 @@
-# README
+# Grammable
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Grammable is a basic Twitter clone.
 
-Things you may want to cover:
+# Usage
 
-* Ruby version
+Users can:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<li>Create an account.</li>
+<li>Post a picture and comment.</li>
+<li>Comment on other pictures and comments</li>

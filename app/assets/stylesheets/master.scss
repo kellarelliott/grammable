@@ -73,10 +73,15 @@ input {
   margin-top: 10px;
 }
 
-.form-check-input {
-  margin-left: 5px;
+.form-check-input.boolean {
+  margin-left: 18px;
+  margin-top: 5px;
 }
 
+.form-check-input.boolean label {
+  margin-top: 5px;
+  line-height: 44px;
+}
 
 .gram-actions a {
   font-weight: bold;
